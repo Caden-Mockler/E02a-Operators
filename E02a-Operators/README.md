@@ -1,6 +1,13 @@
 # E02a-Operators
 An exercise exploring python operators and data types
 
+---------------------------------------------------------------------
+WHAT I DID:
+Went through each grouing of code and figured the equation that would best fit the goal of the requested task described. While also using the variable required.
+
+----------------------------------------------------------------------
+
+
 This repository contains a few files that you will need to alter to complete the assignment. The instructions for the exercise are also on Canvas.
 
 Comments in Python are marked by a # sign (for single-line comments) or three matching quotation marks (''' or """) if a comment requires more than one line. They should also appear in a different color in VS Code. The Python Interpreter ignores comments, so you can safely include any information you want there.
